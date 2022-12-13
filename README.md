@@ -5,12 +5,15 @@
 
 Components
 =====================
-The shape of the controller is based on the general image of a Pac-Man Ghost, with the eyes housing a joystick and button respectively.
+The shape of the controller is based on the general image of a Pac-Man Ghost, with the eyes housing a joystick and button respectively. The joystick only allows movement in 4 directions due to the nature of the pac-man game, and the movement of the ghosts.
 The Arudino and a Vibration motor sit inside the controller, with a joystick to control the movement. 
 The added input for the controller that the ghost can now perform is to return to the middle with the button on the Ghost's left eye. When this is pressed, an LED is connected to light up when this occurs. When the player ghost dies and is sent back to the middle, the vibration motor inside the controller will activate, providing a form of haptic feedback. 
 
+-------------------
 
 I had trouble with the drawings and tinkercad, so I have included my thought process below.
+
+------------
 
 Drawings
 =====================
